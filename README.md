@@ -80,7 +80,8 @@ int main() {
 ```
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/ed42c0b8-9c4d-4eca-b66a-91c0dc69c95f)
+![image](https://github.com/user-attachments/assets/ab784afc-6330-4acf-b543-3213d7affe94)
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
